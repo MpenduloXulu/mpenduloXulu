@@ -17,11 +17,13 @@ Provide personal information:
 Fill out the required fields, including your name, address, and phone number.
 Verify your identity:
 ![thumbnail_Screenshot (1)](https://github.com/user-attachments/assets/cd050788-ae38-4a14-9d6f-b0cca3691675)
+
 ![thumbnail_Screenshot (2)](https://github.com/user-attachments/assets/12eeb54c-0a3f-4a1c-bb3d-088f01478a6c)
 
 You may need to verify your identity using a phone number or credit card. Note that you won't be charged.
 Agreement and setup:
 Accept the subscription agreement and wait for your account to be set up.
+
 ![thumbnail_Screenshot (3)](https://github.com/user-attachments/assets/322ae42b-442d-49ce-90cc-4f7babd2d0e5)
 
 
